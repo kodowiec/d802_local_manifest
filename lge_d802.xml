@@ -7,8 +7,8 @@
             fetch="https://github.com/kodowiec/"/>
 
 <project path="device/lge/d802" name="android_device_lge_d802" remote="kodowiec" revision="cm-14.1" />
-<project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="kodowiec" revision="cm-14.1" />
-<project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="kodowiec" revision="cm-14.1" />
+<project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="kodowiec" revision="halium-7.1" />
+<project path="kernel/lge/msm8974" name="android_kernel_lge_msm8974" remote="kodowiec" revision="halium-7.1" />
 
 <project path="vendor/lge"
   name="proprietary_vendor_lge" remote="them" revision="cm-14.1" />
